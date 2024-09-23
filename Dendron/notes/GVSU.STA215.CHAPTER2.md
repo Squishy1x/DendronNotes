@@ -2,12 +2,17 @@
 id: b42nkty1f6l7z507y5twpm8
 title: CHAPTER2
 desc: ''
-updated: 1725908775684
+updated: 1726244963595
 created: 1725899080215
 ---
+# Analysis of Categorical Data
+
 ## Table of Contents <!-- omit from toc -->
-- [R Cheat Sheet](#r-cheat-sheet)
-- [Chapter 2: Categorical Data](#chapter-2-categorical-data)
+- [Analysis of Categorical Data](#analysis-of-categorical-data)
+    - [R Cheat Sheet](#r-cheat-sheet)
+    - [Graphs:](#graphs)
+      - [Quantitative](#quantitative)
+      - [Categorical](#categorical)
 
 ---
 
@@ -37,4 +42,12 @@ Clustered Bar Graph
 ```
 </details>
 
-### Chapter 2: Categorical Data
+### Graphs:
+
+#### Quantitative 
+- Histogram
+- Steam and Leaf Plot
+
+#### Categorical
+- Bar Chart
+- Pie Chart
